@@ -10,3 +10,15 @@ print(a-b)
 print(a/b)
 print(a//b)
 print(a%b)
+
+""" **Sequence of Operation**
+</br>
+
+**PEDMAS Rule**
+</br>
+*Parenthesis
+*Exponent
+*Division
+*Multiplication
+*Addition
+*Subtration """
