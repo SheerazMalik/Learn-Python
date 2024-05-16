@@ -33,8 +33,21 @@ b=10
 print(a+b)
 print(a-b)
 print(a/b)
-print(a//b)
-print(a%b)
+print(a//b)   will return whole number
+print(a%b)    Jo bhe baqia aya wo mean reminder</br></br>
+
+**Sequence of Operation**
+</br>
+
+**PEDMAS Rule**
+</br>
+*Parenthesis
+*Exponent
+*Division
+*Multiplication
+*Addition
+*Subtration
+
 
 
 
