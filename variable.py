@@ -1,4 +1,4 @@
-#Variable is a name of memory location which store of OR variable is storage of value OR variable is like a container which store value
+#Variable is a name of memory location which store Value OR variable is storage of value OR variable is like a container which store value
 
 """ 1. We can not Represent with numbers like    986= 123
     2. we can not used numbers at starts like..   23test = 10
