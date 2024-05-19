@@ -240,7 +240,7 @@ print(var_odd)</br>
 
 **Range()**</br>
 
-& we can Create any  list of our own choice by called range func </br>
+*  we can Create any  list of our own choice by called range func </br>
 
 
 
