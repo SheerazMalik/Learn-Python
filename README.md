@@ -236,7 +236,14 @@ var_even = list(range(0,30,2))
 print(var_even)
 
 var_odd = list(range(1,30,2))
-print(var_odd)
+print(var_odd)</br>
+
+**Range()**</br>
+
+& we can Create any  list of our own choice by called range func </br>
+
+
+
 
 
 
