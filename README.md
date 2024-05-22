@@ -59,6 +59,8 @@ So, augmented assignment operators provide a short way to perform a binary opera
 1. string is sequence of character#
 2. string value will be in double quotation#
 3. if Double quotation used in our sentence then we used single quotation in string representation#
+4. string can not be manipulate mean its immutable like tuple..
+
 
 name = "Sheraz Ahmad"
 print(name)

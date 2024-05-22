@@ -37,3 +37,14 @@ var_list2=[1,2,3,4,5]
 print(id(var_list1))
 print(id(var_list2))
 print(var_list1 is var_list2)
+
+#Membership operator (in), (in not)
+
+var_member1 = "I am sheraz ahmed. i am from Mianwali punjab pakistan. i did my master from vu pakistan. i am python developer"
+var_member2 ="Sheraz"
+
+print(f"{var_member2} exist in var_memeber1 {var_member1 in var_member1}")
+
+var_list3= [1,2,4,8,0]
+var_input = int(input("Please Enter Your Number : "))
+print(var_input in var_list3)
