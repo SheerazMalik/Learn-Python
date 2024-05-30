@@ -13,5 +13,5 @@ def chicken():
 
 
 
-# chicken()
+chicken()
 # buger = chees_and_buns(chicken)
